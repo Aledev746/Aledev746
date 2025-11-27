@@ -1,4 +1,4 @@
-<h1 align="center">Ciao, sono <a href="https://github.com/Aledev746">Aledev746</a> 👋</h1>
+<h1 align="center">Ciao, sono Alessandro 👋</h1>
 
 <p align="center">
 Studente di Ingegneria Informatica all'Università degli Studi di Palermo (UNIPA).  
