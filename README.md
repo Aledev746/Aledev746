@@ -58,7 +58,6 @@
 ## 📫 Let's Connect!
 - **Email:** [alexdl0418@gmail.com](mailto:alexdl0418@gmail.com)
 - **Instagram:** [@\_\_aledeluca\_](https://instagram.com/__aledeluca_)
-- **LinkedIn:** [Alessandro De Luca](#) *(Update with your link)*
 
 ---
 
