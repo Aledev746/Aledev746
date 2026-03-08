@@ -1,10 +1,6 @@
-<h1 align="center">
-  Hi, I'm Alessandro <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy2/giphy.gif" width="35">
-</h1>
+<h1 align="center">Hi, I'm Alessandro 👋</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+@+UNIPA;Cybersecurity+Enthusiast+🛡️;Training+for+OliCyber+🏆;Software+Developer+💻" alt="Typing SVG" /></a>
-</p>
+<h3 align="center">Computer Engineering Student @ UNIPA | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   I love learning, experimenting, and solving problems through code. I am currently focusing on <b>Cybersecurity</b> to compete in the Italian Cybersecurity Olympics (OliCyber), while building software and exploring new technologies.
