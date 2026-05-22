@@ -23,7 +23,7 @@
 **Languages & Databases:**
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
