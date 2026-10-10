@@ -1,62 +1,66 @@
-<div align="center">
+# Hi, I'm Alessandro 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Alessandro%20Dev&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20@%20UNIPA%20|%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18"/>
+**Software Developer · Backend & Mobile Developer** · Computer Engineering student at the University of Palermo
 
-<a href="https://github.com/Aledev746">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Specialist+%F0%9F%9B%A1%EF%B8%8F;Training+for+OliCyber+2026+%F0%9F%87%AE%F0%9F%87%B9;Always+learning%2C+always+building+%F0%9F%92%BB" alt="Typing SVG" />
-</a>
+I'm a software developer, working on both backend and mobile development, with a passion for building new projects from scratch and a constant curiosity for new technologies. I learn best by making things: command-line tools, systems programs and anything that helps me understand how software really works under the hood.
 
-</div>
+---
 
-<p align="center">
-  I love learning, experimenting, and solving problems through code. I am currently focusing on <b>Cybersecurity</b> to compete in the Italian Cybersecurity Olympics (OliCyber), while building software and exploring new technologies.
-</p>
+## 🔭 What I'm focused on
 
-<p align="center">
-  <a href="https://github.com/Aledev746"><img src="https://komarev.com/ghpvc/?username=Aledev746&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /></a>
-</p>
+- Building and publishing personal projects, with clean code and clear documentation
+- Backend development: application logic, databases and APIs
+- Mobile development: from native apps to cross-platform with React Native
+- Systems and low-level programming (shells, concurrency, file handling)
+- Networking and cybersecurity, which I also study through CTF-style challenges
+- Learning TypeScript and React Native to build mobile applications
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0e75b6&height=2&section=header&width=100"/>
-</div>
+## 🛠️ Tech Stack
 
-## 🚀 About Me
+**Languages**
 
-- 🎓 Computer Engineering student at the University of Palermo.
-- 🛡️ **Currently focusing on:** Cybersecurity (Training for the Italian Cybersecurity Olympics).
-- 💻 **Programming Languages:** Python, Java, Swift, C, HTML, CSS, MySQL.
-- 🎯 **2026 Goals:** Compete in OliCyber, deepen my security knowledge, and publish personal projects.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff&style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat-square)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
 
-## 🛠️ Technologies & Tools
+**Tools**
 
-**Languages & Databases:**
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=for-the-badge" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-
-**Web Development:**
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
-</p>
-
-**Tools:**
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="WireShark" src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=fff&style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=fff&style=flat-square)
+![Base44](https://img.shields.io/badge/Base44-FF6B35?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)
 
 ## 📌 Featured Projects
 
-🚧 **Work in Progress...** I am currently organizing my academic exercises, software projects, and cybersecurity write-ups/CTF challenges. They will be published here soon. Stay tuned!
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**auto-declutter**](https://github.com/Aledev746/auto-declutter) | A lightweight CLI that automatically organizes files into extension-based folders, keeping directories like Downloads clean and manageable. | Rust |
+| [**PyPortScanner**](https://github.com/Aledev746/PyPortScanner) | A multithreaded tool for quickly checking open ports on a host, with configurable target, port range, number of threads and timeout. | Python |
+| [**PySh**](https://github.com/Aledev746/PySh) | A basic shell environment built from scratch, created for learning and experimentation. | Python |
+
+> Network tools in this profile are intended for use only on systems I own or have explicit permission to test.
+
+## 🎓 Certifications
+
+<a href="https://www.credly.com/badges/9815e1a7-d7ad-4321-b762-9adb2b67d623">
+  <img alt="Cisco - Introduction to Cybersecurity" src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-049FD9?logo=cisco&logoColor=fff&style=for-the-badge" />
+</a>
+
+<sub>Click the badge to verify it on Credly.</sub>
+
+## 🎯 Currently
+
+- 🎓 Studying Computer Engineering at UNIPA
+- 🛡️ Training in cybersecurity (preparing for OliCyber 2026)
+- 🚧 Planning **NextStep**, a mobile app that helps students choose their high school or university path using official public data
 
 ## 📊 GitHub Stats
 
@@ -68,15 +72,10 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aledev746&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
-## 📫 Let's Connect!
+## 📫 Get in touch
 
-- **Email:** [alexdl0418@gmail.com](mailto:alexdl0418@gmail.com)
-- **Instagram:** [@\_\_aledeluca\_](https://instagram.com/__aledeluca_)
+- 📧 [alexdl0418@gmail.com](mailto:alexdl0418@gmail.com)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=100&section=footer"/>
-</div>
+---
 
-<p align="center">
-  <i>If you find any of my upcoming projects interesting, consider leaving a ⭐️. Feedback and PRs are always welcome!</i>
-</p>
+<sub>Open to feedback, ideas and collaboration. If you find one of my projects useful, a ⭐ is always appreciated.</sub>
